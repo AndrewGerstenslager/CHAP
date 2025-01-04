@@ -1,4 +1,4 @@
-# CHA(A)P: Chat With Any Anonymous Page 
+# CHAAP: Chat With Any Anonymous Page 
 ### The Chrome extension chatbot that offers private, smart web interactions. Anonymize and converse with ease for secure form filling and browsing.
 
 [DEVPOST LINK](https://devpost.com/software/chaap-chat-with-any-anonymous-page)
